@@ -9,10 +9,9 @@ This repository contains hands-on labs and builds from the 14-day course.
 3. Run scripts in the `scripts/` folder
  
 ## Run
- 
-```bash
+
 python scripts/hello_ai.py
----
+
 ## Day 3: CLI Assistant
  
 Create a `.env` file in the project root:
